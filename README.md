@@ -2,8 +2,8 @@
  ##   👋 Hi there! I'm Rhia George!
  
  - :telescope: I’m currently working on Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
- - :seedling: I’m currently learning **FastAPI** , **Tensorflow** and **PyTorch**
- - 🥅 My Primary Goal for 2021: Work on more NLP projects
+ - :seedling: I’m learning **FastAPI** , **Tensorflow** and **PyTorch** at the moment
+ - 🥅 My Primary Goal for 2021: Work on more NLP projects.
  - 🎈 Fun Fact : I am multilingual and love to travel.
 
 
@@ -51,4 +51,9 @@
 ---
 [medium]: https://rhiag-385.medium.com/
 [linkedin]: https://www.linkedin.com/in/rhia-george/
+
+
+
+
+
 
