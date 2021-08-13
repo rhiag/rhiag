@@ -3,8 +3,8 @@
  
  - :telescope: I’m currently working on Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
  - :seedling: I’m learning **FastAPI** , **Tensorflow** and **PyTorch** at the moment
- - 🥅 My Primary Goal for 2021: Work on more NLP projects.
- - 🎈 Fun Fact : I am multilingual and love to travel.
+ - 🥅 My Primary Goal for 2021: Land a Data Science job and continue to work on more NLP projects.
+ - 🎈 Fun Facts : I am an Electronics and Instrumentations Engineer with a passion for the Biomedical field.I am multilingual and love to travel.
 
 
 <h3 align="left"> Connect with me:</h3>
@@ -51,7 +51,6 @@
 ---
 [medium]: https://rhiag-385.medium.com/
 [linkedin]: https://www.linkedin.com/in/rhia-george/
-
 
 
 
