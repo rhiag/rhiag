@@ -1,5 +1,5 @@
                                 
- ##   👋 Hi there! I'm Rhia George!
+ ##   👋 Hi there! I'm Rhia George - Data Driven Storyteller!
  
  - :telescope: I’m currently working on Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
  - :seedling: I’m learning **FastAPI** , **Tensorflow** and **PyTorch** at the moment
