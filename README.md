@@ -1,9 +1,9 @@
                                 
- ##   👋 Hi there! I'm Rhia George - Data Driven Storyteller!
+ ##   👋 Hi there! I'm Rhia George - A Data Driven Storyteller!
  
  - :telescope: I’m currently working on Human Rights First's [Blue Witness Project](https://github.com/Lambda-School-Labs/human-rights-first-police-ds-a)
- - :seedling: I’m learning **FastAPI** , **Tensorflow** and **PyTorch** at the moment
- - 🥅 My Primary Goal for 2021: Land a Data Science job and continue to work on more NLP projects.
+ - :seedling: I’m learning **Tensorflow** and **PyTorch** at the moment
+ - 🥅 My Primary Goal for 2021: Land a Data Science job and to work on NLP projects that focus on image processing.
  - 🎈 Fun Facts : I am an Electronics and Instrumentations Engineer with a passion for the Biomedical field.I am multilingual and love to travel.
 
 
@@ -31,8 +31,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-2E3440?style=for-the-badge&logo=dash)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 
 ## Tools Skills:
