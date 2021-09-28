@@ -1,5 +1,5 @@
                                 
- ##   👋 Hi there! I'm Rhia George - A Data Driven Storyteller!
+ ##   👋 Hi there! I'm Rhia George - Data Scientist | Data Analyst
  
  - 🥇: I graduated from Lambda School as a Data Scientist!
  - :seedling: I’m learning **Tableau** at the moment
