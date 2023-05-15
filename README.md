@@ -1,9 +1,9 @@
                                 
  ##   👋 Hi there! I'm Rhia George - Data Scientist | Data Analyst
  
- - 🥇: I graduated from Lambda School as a Data Scientist!
- - :seedling: I’m learning **Tableau** at the moment
- - 🥅 My Primary Goal for 2021: Land a Data Science job and to be able to solve real word problems with data.
+ - 🥇: I am a Data Scientist with a background in Machine Learning, data analysis and problem solving
+ - :seedling: I’m exploring **R Programming** at the moment
+ - 🥅 My Primary Goal for 2023: Land a Data Science job
  - 🎈 Fun Facts : I am an Electronics and Instrumentations Engineer with a passion for the Biomedical field.I am multilingual and love to travel.
 
 
@@ -22,6 +22,7 @@
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,6 +55,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 
 ---
