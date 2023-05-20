@@ -2,7 +2,7 @@
  ##   👋 Hi there! I'm Rhia George - Data Scientist | Data Analyst
  
  - 🥇: I am a Data Scientist with a background in Machine Learning, data analysis and problem solving
- - :seedling: I’m exploring **R Programming** at the moment
+ - :seedling: I’m exploring **Deep Learning Models** more deeply
  - 🥅 My Primary Goal for 2023: Land a Data Science job
  - 🎈 Fun Facts : I am an Electronics and Instrumentations Engineer with a passion for the Biomedical field.I am multilingual and love to travel.
 
